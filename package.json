@@ -4,11 +4,11 @@
   "description": "Fully automated TikTok video poster with Payhip monetization",
   "main": "index.js",
   "scripts": {
+    "prepare": "npm install --legacy-peer-deps",
     "start": "node index.js"
   },
   "dependencies": {
     "node-fetch": "^2.6.7",
-    "puppeteer-core": "^21.3.8",
-    "chrome-aws-lambda": "^10.1.0"
+    "puppeteer-core": "^19.11.1"
   }
 }
