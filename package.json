@@ -6,9 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
- "dependencies": {
-  "node-fetch": "^2.6.7",
-  "puppeteer-core": "^19.11.1"
-}
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "puppeteer-core": "^19.11.1"
   }
 }
