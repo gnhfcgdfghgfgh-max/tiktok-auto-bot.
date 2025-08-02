@@ -4,8 +4,7 @@
   "description": "Fully automated TikTok video poster with Payhip monetization",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "node install.mjs"
+    "start": "node index.js"
   },
   "dependencies": {
     "node-fetch": "^2.6.7",
