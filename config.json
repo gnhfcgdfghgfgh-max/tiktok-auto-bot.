@@ -1,0 +1,13 @@
+{
+  "tiktok": {
+    "username": "dailydigitaldrop00",
+    "password": "Bbbain2017$"
+  },
+  "videosFolder": "./videos",
+  "payhipLink": "https://payhip.com/b/lVSiG",
+  "whatsapp": {
+    "phoneNumber": "YOUR_PHONE_WITH_COUNTRY_CODE",
+    "callMeBotAPIKey": "YOUR_CALLMEBOT_API_KEY"
+  },
+  "postingSchedule": "0 14 * * *"
+}
